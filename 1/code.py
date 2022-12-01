@@ -1,7 +1,7 @@
 
 ## Generate a list of list where each list is an elf cal.count
 with open("puzzle_input.txt", "r") as cals:
-  all_lines = cals.read().rstrip() ## Get rif of final new line if I managed to copy it
+  all_lines = cals.read().rstrip() ## Get rid of final new line if I managed to copy it
   elfs = [line.split("\n") for line in all_lines.split("\n\n")]
 
 ## Cast to int each elf cals. and sum them to get a list of total cals/elf
