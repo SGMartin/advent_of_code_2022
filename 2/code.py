@@ -27,8 +27,7 @@ strat_second_meaning = {
     "CZ": 7
     }
 
-first_meaning_scores = [strat_first_meaning[game] for game in games]
-second_meaning_scores = [strat_second_meaning[game] for game in games]
+first_gm, second_gm = zip(*[(strat_first_meaning[game], strat_second_meaning[game]) for game in games])
 
-print(f"Answer to part 1 is: {sum(first_meaning_scores)}")
-print(f"Answer to part 2 is: {sum(second_meaning_scores)}")
+print(f"Answer to part 1 is: {sum(first_gm)}")
+print(f"Answer to part 2 is: {sum(second_gm)}")
