@@ -1,8 +1,8 @@
 import copy
 import re
 
-## NOTE: most of the solutions I've seen place the stacks manually in the code
-## I refuse to that kind of stuff so let the parsing begin
+## NOTE: most of the solutions I've seen manually code the stacks
+## I refuse to follow any kind of approach like that so let the parsing begin
 
 ## scan n. of crates. The previous lines will be the crate
 ## arrangement
