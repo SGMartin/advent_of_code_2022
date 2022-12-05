@@ -15,10 +15,10 @@ for pair in pairs:
 
     sub0 = set(sub0)
     sub1 = set(sub1)
-    
+
     if sub0.issubset(sub1) or sub1.issubset(sub0):
         full_match = full_match + 1
-    
+
     if sub0.intersection(sub1):
         overlaps += 1
 
