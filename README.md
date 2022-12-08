@@ -24,6 +24,7 @@
 * Day 4 (December 4, 2022): [Camp Cleanup](https://adventofcode.com/2022/day/4) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/4/code.py)
 * Day 5 (December 5, 2022): [Supply Stacks](https://adventofcode.com/2022/day/5) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/5/code.py)
 * Day 6 (December 6, 2022): [Tuning Trouble](https://adventofcode.com/2022/day/6) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/6/code.py)
-* Day 6 (December 7, 2022): [No Space Left On Device](https://adventofcode.com/2022/day/7) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/7/code.py)
+* Day 7 (December 7, 2022): [No Space Left On Device](https://adventofcode.com/2022/day/7) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/7/code.py)
+* Day 8 (December 8, 2022): [Treetop Tree House](https://adventofcode.com/2022/day/8) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/8/code.py)
 
 _Answers by SGMartin._
