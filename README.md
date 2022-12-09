@@ -26,5 +26,7 @@
 * Day 6 (December 6, 2022): [Tuning Trouble](https://adventofcode.com/2022/day/6) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/6/code.py)
 * Day 7 (December 7, 2022): [No Space Left On Device](https://adventofcode.com/2022/day/7) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/7/code.py)
 * Day 8 (December 8, 2022): [Treetop Tree House](https://adventofcode.com/2022/day/8) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/8/code.py)
+* Day 9 (December 9, 2022): [Rope Bridge](https://adventofcode.com/2022/day/9) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/9/code.py)
+
 
 _Answers by SGMartin._
