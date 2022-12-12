@@ -29,5 +29,6 @@
 * Day 9 (December 9, 2022): [Rope Bridge](https://adventofcode.com/2022/day/9) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/9/code.py)
 * Day 10 (December 10, 2022): [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/10/code.py)
 * Day 11 (December 11, 2022): [Monkey in the Middle](https://adventofcode.com/2022/day/11) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/11/code.py)
+* Day 12 (December 12, 2022): [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/12/code.py)
 
 _Answers by SGMartin._
