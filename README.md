@@ -31,5 +31,6 @@
 * Day 11 (December 11, 2022): [Monkey in the Middle](https://adventofcode.com/2022/day/11) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/11/code.py)
 * Day 12 (December 12, 2022): [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/12/code.py)
 * Day 13 (December 13, 2022): [Distress Signal](https://adventofcode.com/2022/day/13) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/13/code.py)
+* Day 14 (December 14, 2022): [Regolith Reservoir](https://adventofcode.com/2022/day/14) - [Solution](https://github.com/SGMartin/advent_of_code_2022/blob/main/14/code.py)
 
 _Answers by SGMartin._
